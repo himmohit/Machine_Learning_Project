@@ -1,6 +1,6 @@
 # Machine_Learning_and_Deep_Learning_Project:-
 ## *- In this Project Section i have put several Project using Machine Learning and Deep Learning Concept. So here is a brief information about Project and work strategy.*
-========================================================================================
+
 
 # * *Machine Learning project :-*
 ## 1. Wallmart Sales Prediction:- 
