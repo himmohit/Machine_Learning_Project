@@ -3,8 +3,9 @@
 
 
 # * *Machine Learning project :-*
-## 1. Wallmart Sales Prediction:- 
-*In this Project I have extract dataset from 'Kaggle' and used some Machine learning algorithms to predict the future sales of Wallmart Store. Also checking the best accuracy and then using it for final Prediction.*
+## 1. Walmart Sales Prediction:- 
+*In this Project I have extract dataset from 'Kaggle' and used some Machine learning algorithms to predict the future sales of Walmart Store. Also checking the best accuracy and then using it for final Prediction.*
+
 ## 2. Wine Classification :-
 *In this Project downloaded dataset from 'kaggle' and with the help of some relevant available features trying to predict the Category of wine whether it's Red or White.*
 
